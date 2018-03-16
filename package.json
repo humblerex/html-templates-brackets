@@ -1,0 +1,12 @@
+{
+    "name": "humblerex",
+    "title": "hT - HTML Templates",
+    "description": "This extension will help you to easily insert a html template. Saves your time.",
+    "homepage": "https://github.com/yourname/yourproject",
+    "version": "1.0.0",
+    "author": "Ashwani Dubey <> (http://github.com/humblerex)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
