@@ -2,9 +2,9 @@
     "name": "humblerex",
     "title": "hT - HTML Templates",
     "description": "This extension will help you to easily insert a html template. Saves your time.",
-    "homepage": "https://github.com/yourname/yourproject",
-    "version": "1.0.0",
-    "author": "Ashwani Dubey <> (http://github.com/humblerex)",
+    "homepage": "https://github.com/humblerex/html-templates-brackets",
+    "version": "1.0.1",
+    "author": "Ashwani Dubey",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
